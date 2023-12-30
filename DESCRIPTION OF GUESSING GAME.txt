@@ -1,0 +1,4 @@
+GUESSING GAME:
+The random module is used to generate a random number.
+The user check whether the guess is too high or too low or find guess number.
+The game continues until the user correctly guesses the number.
